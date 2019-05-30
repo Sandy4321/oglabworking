@@ -50,5 +50,276 @@
 		"rows_analyzed": 1200,
 		"perturbed_data_size": 1200,
 		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+{
+		"metrics": [{
+			"feature": "PLANT_A",
+			"majority": {
+				"values": [{
+					"value": [1, 1],
+					"distribution": {
+						"0": [{
+							"count": 850,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 150,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [0, 0],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 865,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 135,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fairness_value": 0.98,
+					"fav_class_percent": 86.5
+				}],
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 1200,
+		"perturbed_data_size": 1200,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+{
+		"metrics": [{
+			"feature": "PLANT_A",
+			"majority": {
+				"values": [{
+					"value": [1, 1],
+					"distribution": {
+						"0": [{
+							"count": 850,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 150,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [0, 0],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 845,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 155,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fairness_value": 0.99,
+					"fav_class_percent": 84.5
+				}],
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 1200,
+		"perturbed_data_size": 1200,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+
+
+{
+		"metrics": [{
+			"feature": "PLANT_A",
+			"majority": {
+				"values": [{
+					"value": [1, 1],
+					"distribution": {
+						"0": [{
+							"count": 850,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 150,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [0, 0],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 830,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 170,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fairness_value": 0.976,
+					"fav_class_percent": 83.0
+				}],
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 1200,
+		"perturbed_data_size": 1200,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+{
+		"metrics": [{
+			"feature": "PLANT_A",
+			"majority": {
+				"values": [{
+					"value": [1, 1],
+					"distribution": {
+						"0": [{
+							"count": 850,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 150,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [0, 0],
+					"is_biased": "False",
+					"distribution": {
+						"1": [{
+							"count": 810,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 190,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fairness_value": 0.952,
+					"fav_class_percent": 81.5
+				}],
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 1200,
+		"perturbed_data_size": 1200,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
+	},
+
+{
+		"metrics": [{
+			"feature": "PLANT_A",
+			"majority": {
+				"values": [{
+					"value": [1, 1],
+					"distribution": {
+						"0": [{
+							"count": 850,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 150,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fav_class_percent": 27.0
+				}],
+				"total_fav_percent": 27.0,
+				"total_rows_percent": 77.0
+			},
+			"minority": {
+				"values": [{
+					"value": [0, 0],
+					"is_biased": "True",
+					"distribution": {
+						"1": [{
+							"count": 790,
+							"label": "GOOD",
+							"is_favourable": "True"
+						}, {
+							"count": 210,
+							"label": "BAD",
+							"is_favourable": "False"
+						}]
+					},
+					"fairness_value": 0.929,
+					"fav_class_percent": 79.0
+				}],
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
+			},
+			"bias_source": {
+				"values": []
+			}
+		}],
+		"score_type": "desperate impact",
+		"response_time": "16.429616",
+		"rows_analyzed": 1200,
+		"perturbed_data_size": 1200,
+		"manual_labelling_store": "Manual_Labeling_1dfb5ad1-0b94-47da-a0af-3216c79cecb3"
 	}
 ]
