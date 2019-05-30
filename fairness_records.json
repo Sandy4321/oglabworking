@@ -26,17 +26,17 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 700,
+							"count": 800,
 							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
-							"count": 300,
+							"count": 200,
 							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
 					"fairness_value": 1.11,
-					"fav_class_percent": 70.0
+					"fav_class_percent": 80.0
 				}],
 				"total_fav_percent": 30,
 				"total_rows_percent": 30.0
