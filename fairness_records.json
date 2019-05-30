@@ -3,7 +3,7 @@
 			"feature": "PLANT_A",
 			"majority": {
 				"values": [{
-					"value": [0, 0],
+					"value": [1, 1],
 					"distribution": {
 						"0": [{
 							"count": 730,
@@ -22,7 +22,7 @@
 			},
 			"minority": {
 				"values": [{
-					"value": [1, 1],
+					"value": [0, 0],
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
@@ -36,7 +36,7 @@
 						}]
 					},
 					"fairness_value": 1.11,
-					"fav_class_percent": 30.0
+					"fav_class_percent": 70.0
 				}],
 				"total_fav_percent": 30,
 				"total_rows_percent": 30.0
