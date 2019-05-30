@@ -38,8 +38,8 @@
 					"fairness_value": 1.11,
 					"fav_class_percent": 80.0
 				}],
-				"total_fav_percent": 30,
-				"total_rows_percent": 30.0
+				"total_fav_percent": 20,
+				"total_rows_percent": 20.0
 			},
 			"bias_source": {
 				"values": []
