@@ -6,11 +6,11 @@
 					"value": [1, 1],
 					"distribution": {
 						"0": [{
-							"count": 730,
+							"count": 800,
 							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
-							"count": 270,
+							"count": 200,
 							"label": "BAD",
 							"is_favourable": "True"
 						}]
@@ -26,16 +26,16 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 800,
+							"count": 792,
 							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
-							"count": 200,
+							"count": 208,
 							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 1.11,
+					"fairness_value": 1.04,
 					"fav_class_percent": 80.0
 				}],
 				"total_fav_percent": 20,
@@ -132,16 +132,16 @@
 					"is_biased": "False",
 					"distribution": {
 						"1": [{
-							"count": 700,
+							"count": 805,
 							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
-							"count": 300,
+							"count": 195,
 							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
-					"fairness_value": 0.875,
+					"fairness_value": 0.975,
 					"fav_class_percent": 70.0
 				}],
 				"total_fav_percent": 20,
