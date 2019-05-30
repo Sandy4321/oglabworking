@@ -7,11 +7,11 @@
 					"distribution": {
 						"0": [{
 							"count": 700,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 300,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -27,11 +27,11 @@
 					"distribution": {
 						"1": [{
 							"count": 700,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 300,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -60,11 +60,11 @@
 					"distribution": {
 						"0": [{
 							"count": 650,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 350,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -80,11 +80,11 @@
 					"distribution": {
 						"1": [{
 							"count": 660,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 340,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -113,11 +113,11 @@
 					"distribution": {
 						"0": [{
 							"count": 625,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 275,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -133,11 +133,11 @@
 					"distribution": {
 						"1": [{
 							"count": 630,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 270,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -167,11 +167,11 @@
 					"distribution": {
 						"0": [{
 							"count": 725,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 275,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -187,11 +187,11 @@
 					"distribution": {
 						"1": [{
 							"count": 750,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 250,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -221,11 +221,11 @@
 					"distribution": {
 						"0": [{
 							"count": 750,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 250,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -241,11 +241,11 @@
 					"distribution": {
 						"1": [{
 							"count": 770,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 230,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -275,11 +275,11 @@
 					"distribution": {
 						"0": [{
 							"count": 710,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 290,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -295,11 +295,11 @@
 					"distribution": {
 						"1": [{
 							"count": 700,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 300,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -329,11 +329,11 @@
 					"distribution": {
 						"0": [{
 							"count": 740,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 260,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -349,11 +349,11 @@
 					"distribution": {
 						"1": [{
 							"count": 710,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 290,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -383,11 +383,11 @@
 					"distribution": {
 						"0": [{
 							"count": 720,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 280,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -403,11 +403,11 @@
 					"distribution": {
 						"1": [{
 							"count": 700,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 300,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -436,11 +436,11 @@
 					"distribution": {
 						"0": [{
 							"count": 720,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 280,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -456,11 +456,11 @@
 					"distribution": {
 						"1": [{
 							"count": 750,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 250,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -489,11 +489,11 @@
 					"distribution": {
 						"0": [{
 							"count": 730,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "FALSE"
 						}, {
 							"count": 270,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
@@ -509,11 +509,11 @@
 					"distribution": {
 						"1": [{
 							"count": 700,
-							"label": "BAD",
+							"label": "GOOD",
 							"is_favourable": "False"
 						}, {
 							"count": 300,
-							"label": "GOOD",
+							"label": "BAD",
 							"is_favourable": "True"
 						}]
 					},
